@@ -4,6 +4,8 @@
 >Discord.py
 >Discord.js
 >API (dari penyedia AI)
+>Bot.py
+>database.py
 
 ## Proyek ini akan berisi:
 > bot yang bisa berinteraksi dengan pengguna
